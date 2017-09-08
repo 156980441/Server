@@ -88,9 +88,9 @@
             <version>${apache.commons.version}</version>
         </dependency>
         <dependency>
-            <groupId>fakepath</groupId>
-            <artifactId>com.springsource.net.sf.cglib</artifactId>
-            <version>2.2.0</version>
+            <groupId>net.sourceforge.cglib</groupId>  
+            <artifactId>com.springsource.net.sf.cglib</artifactId>  
+            <version>2.2.0</version> 
         </dependency>
         
         <!--④ 依赖的WEB类库-->
