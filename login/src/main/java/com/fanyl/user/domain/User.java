@@ -5,6 +5,8 @@ import java.util.Date;
 
 public class User  implements Serializable {
 
+	private static final long serialVersionUID = -5058303510259745194L;
+
 	private int userId;
 
     private String userName;
